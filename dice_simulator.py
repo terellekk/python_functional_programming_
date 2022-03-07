@@ -17,9 +17,10 @@ def double_dice():
     #range of numbers
 
     dice = random.randint(1, 6)
+    dice2 = random.randint(1, 6)
 
     if game_start == 'Yes':
-        print(f"Rolling dice...{dice} \n")
+        print(f"Rolling dice...{dice} {dice2}\n")
 
     else: 
         exit()
