@@ -1,11 +1,3 @@
-'''
-Make a Temperature/Measurement Converter.
-Write a script that can convert Fahrenheit to Celcius and back, or inches to centimeters and back, etc. 
-    How far ca you take it?
-    max_days: 2hours
-'''
-
-
 def temp_converter():
    
    #This code takes user input, converts from a string to int, then converts user input to C or F
